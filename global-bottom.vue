@@ -10,7 +10,7 @@
     <div class="flex">
       <div>
        Alexey Boldyrev, Maksim Karpov &nbsp; | &nbsp;Machine Learning
-        &nbsp;| &nbsp;HSE 2024/2025
+        &nbsp;| &nbsp;HSE 2025/2026
       </div>
       <div class="flex-grow">&nbsp;</div>
       <div
