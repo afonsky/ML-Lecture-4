@@ -24,7 +24,7 @@ drawings:
   persist: false
 title: "Machine Learning"
 subtitle: "Resampling Methods"
-date: "22/09/2025"
+date: "03/02/2026"
 venue: HSE
 author: Alexey Boldyrev, Maksim Karpov
 ---
